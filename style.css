@@ -1,0 +1,32 @@
+.heading {
+    text-align: center;
+    color: brown;
+    font-family: "Lucida Console", monospace;
+}
+
+.recipes,
+.subtitle {
+    text-align: center;
+    background-color: rgb(218, 167, 116);
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+}
+
+div,
+p,
+.steps {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div,
+p {
+    text-align: center;
+}
